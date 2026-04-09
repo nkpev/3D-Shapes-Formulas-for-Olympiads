@@ -3,9 +3,9 @@
 A concise reference sheet of volume and surface area formulas for common 3D solids, designed for AMC/AIME-level geometry and math contests.
 
 ## Contents
-- Cube, Rectangular Prism, General Prism
+- Cube, rectangular prism, general prism
 - Pyramid (including regular tetrahedron)
-- Cylinder, Cone, Sphere
+- Cylinder, cone, sphere
 - Frustums (cone and pyramid)
 - Hemisphere and spherical cap
 
